@@ -22,8 +22,7 @@ To run the project on your local machine:
 1. **Clone or Download the Repository**
 
    If you have git installed, clone the repository using:
-  https://github.com/cgb47/cs405Project2
-  https://github.com/cgb47/cs405Project2.git
+  (https://github.com/cgb47/cs405projec2cemgorkem.git)
   
 
 Alternatively, you can download the project as a ZIP file and extract it.
